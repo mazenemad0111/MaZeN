@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[328],{1105:function(e){e.exports=JSON.parse('{"title":"Change Text Align","tippy":"Change the text align of the selected text.","tippyDisabled":"This design does not support text alignments."}')}}]);
+//# sourceMappingURL=210990a.js.map
